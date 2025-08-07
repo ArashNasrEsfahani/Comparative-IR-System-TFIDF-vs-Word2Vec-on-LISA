@@ -42,10 +42,6 @@ This model leverages dense vector embeddings to capture semantic meaning.
 
 The two systems were directly compared using standard IR metrics.
 
-### Performance Charts
-
-![Comparison Charts](https://i.imgur.com/KxI8Uv4.png)
-*(Image from the report showing the comparative performance)*
 
 ### Metric Summary Table
 
