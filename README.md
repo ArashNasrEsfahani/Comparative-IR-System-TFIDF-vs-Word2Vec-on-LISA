@@ -67,8 +67,8 @@ The **TF-IDF model generally outperformed the Word2Vec averaging method**, espec
 
 1.  **Clone the repository:**
     ```bash
-    git clone <your-repo-url>
-    cd <repository-name>
+    git clone https://github.com/ArashNasrEsfahani/Comparative-IR-System-TFIDF-vs-Word2Vec-on-LISA/
+    cd Comparative-IR-System-TFIDF-vs-Word2Vec-on-LISA
     ```
 
 2.  **Create a virtual environment and install dependencies:**
